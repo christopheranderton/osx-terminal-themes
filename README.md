@@ -10,11 +10,11 @@ Tested on *Mac OS X 10.7.x Lion* and *Mac OS X 10.11.4 El Capitan*
 ## Install 
 
 #### Method 1
-1. [Download the project](https://github.com/christopheranderton/osx-terminal-themes/archive/master.zip) with your web browser and unzip (double click the *.zip* file), or use [git](git clone https://github.com/christopheranderton/osx-terminal-themes.git).
+1. [Download the project](https://github.com/christopheranderton/osx-terminal-themes/archive/master.zip) with your web browser and unzip (double click the *.zip* file), or use [git](https://github.com/christopheranderton/osx-terminal-themes.git).
 2. Double click the `.terminal` file you want to install (this will open Terminal.app).
 
 #### Method 2
-1. [Download the project](https://github.com/christopheranderton/osx-terminal-themes/archive/master.zip) with your web browser and unzip (double click the *.zip* file), or use [git](git clone https://github.com/christopheranderton/osx-terminal-themes.git).
+1. [Download the project](https://github.com/christopheranderton/osx-terminal-themes/archive/master.zip) with your web browser and unzip (double click the *.zip* file), or use [git](https://github.com/christopheranderton/osx-terminal-themes.git).
 2. Open *Terminal.app* and choose *Preferences* in the top menu. 
 3. Click the *Profiles* button
 4. Click the *settings cog* in the bottom of the *theme list* and select *Import…*
