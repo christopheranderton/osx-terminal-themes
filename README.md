@@ -5,7 +5,7 @@
 Some custom made themes for the Mac OS X **Terminal.app.**   
 Tested on *Mac OS X 10.7.x Lion* and *Mac OS X 10.11.4 El Capitan*
 
-***Stay tuned for updates and new Themes and iTerm2 (and iTerm3) versions in May/June 2016!***
+***OlD***
 
 ## Install 
 
