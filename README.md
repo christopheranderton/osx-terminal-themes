@@ -5,7 +5,6 @@
 Some custom made themes for the Mac OS X **Terminal.app.**   
 Tested on *Mac OS X 10.7.x Lion* and *Mac OS X 10.11.4 El Capitan*
 
-***OlD***
 
 ## Install 
 
